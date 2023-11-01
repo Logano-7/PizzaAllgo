@@ -1,3 +1,7 @@
 Pizza is good. Allego is the best pizza. 
 If you want Allego Pizza call 1-80000-PIZZA. 
+<<<<<<< HEAD
 Allego
+=======
+Is this a conflict.
+>>>>>>> test
